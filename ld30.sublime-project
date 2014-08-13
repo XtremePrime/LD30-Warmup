@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "LD30-Warmup",
+			"file_exclude_patterns": ["*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so"],
+			"folder_exclude_patterns": ["bin", "obj"]
+		}
+	]
+}
