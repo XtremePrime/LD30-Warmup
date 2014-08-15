@@ -507,7 +507,7 @@
 			"file": "LD30-Warmup/main.cpp",
 			"settings":
 			{
-				"buffer_size": 97,
+				"buffer_size": 434,
 				"line_ending": "Windows"
 			}
 		}
@@ -818,18 +818,18 @@
 				{
 					"buffer": 0,
 					"file": "LD30-Warmup/main.cpp",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 97,
+						"buffer_size": 434,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								97,
-								97
+								91,
+								91
 							]
 						],
 						"settings":
